@@ -2,6 +2,8 @@
 Multi-Layer Perceptron built with Numpy  
 Inspired by The Independent Code  
 
+Extract mnist.zip as-is into same folder as source files.
+  
 Evolution:  
 1. neural_network.py :  
    One layer dense, from n inputs to 1 output.  Incapable of training to solve XOR due to lack of biases.  Successful on linear decision problems such as OR and X1, where X1 is simply the first input.
